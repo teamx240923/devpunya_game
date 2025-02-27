@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987546584248",
+    "project_id": "wordhunt-894e4",
+    "storage_bucket": "wordhunt-894e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987546584248:android:393004084725b187a6e04d",
+        "android_client_info": {
+          "package_name": "com.teamx.word_hunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDh7VEMy1jHp8yyAnhf0WLjQUFvbbPDHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987546584248:android:58d4f75fe40ba942a6e04d",
+        "android_client_info": {
+          "package_name": "com.teamx.word_search"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDh7VEMy1jHp8yyAnhf0WLjQUFvbbPDHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
